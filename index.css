@@ -1,0 +1,50 @@
+body {
+    background-color: burlywood;
+    max-width: 560px;
+    margin: auto;
+}
+
+#center-body {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    font-size: 34px;
+    color: darkred;
+}
+
+h5 {
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    font-size: 24px;
+    color: darkred;
+    margin: 0.5em;
+    padding-bottom: 0.25em;
+}
+
+span#star {
+    color: yellow;
+    font-size: 30px;
+}
+
+#CoverArt {
+    border-radius: 20px;
+}
+
+ul {
+    margin: 1em;
+    padding-left: 35%;
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    font-size: 20px;
+    color: darkred;
+}
+
+p {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    color: darkred;
+}
+
+a {
+    color: darkolivegreen;
+}
